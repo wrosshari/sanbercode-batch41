@@ -1,0 +1,22 @@
+{
+  "name": "sanbercode-batch41",
+  "version": "1.0.0",
+  "description": "Welcome to my bootcamp task repository on GitHub! Here, you will find the projects and assignments that I have completed as part of my bootcamp program in Sanbercode - QA Engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrosshari/sanbercode-batch41.git"
+  },
+  "author": "winda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrosshari/sanbercode-batch41/issues"
+  },
+  "homepage": "https://github.com/wrosshari/sanbercode-batch41#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
